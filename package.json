@@ -16,7 +16,6 @@
     "reactstrap": "8.10.0",
     "sass": "1.62.1"
   },
-  "homepage": "https://Meiuwu2001.github.io/reyna_examen_p1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
